@@ -120,7 +120,7 @@ The system consists of three main modules:
 
 ## Authors
 
-* **Aman Vishwash Singh** – Embedded Systems
+* **Aman Vishwash Singh** – Embedded Engineer
 
 ---
 
